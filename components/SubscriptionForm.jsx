@@ -288,7 +288,7 @@ export default function SubscriptionForm(props) {
               adding
                 ? "bg-emerald-400 cursor-not-allowed"
                 : "bg-emerald-600 hover:bg-emerald-700"
-            } text-white font-medium transition`}
+            } text-white font-medium transition corsor-pointer`}
           >
             {adding ? (
               <span className="flex items-center gap-2">
