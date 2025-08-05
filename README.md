@@ -2,4 +2,4 @@
 
 ## 🚀 Live Demo
 
-👉 [SubKeeper || Subscription Tracker](https://clear-mode.netlify.app/)
+👉 [SubKeeper || Subscription Tracker](https://sub-keeper.netlify.app/)
